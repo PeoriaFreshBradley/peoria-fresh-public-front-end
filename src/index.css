@@ -1,0 +1,60 @@
+:root {
+	/* Background */
+	--base_site_bgColor: #fff6ee; /*Default #fff6ee
+	/* Main-Text */
+	--base_site_MTColorLight: #fffbf8; /*Default #fffbf8
+	/* Active-Popup */
+	--base_site_activePopupColor: #ea7f3a; /*Default #ea7f3a
+	/* Main-Button & and Main-Text */
+	--base_site_MTColorDark: #202d2b; /*Default #202d2b
+	/* Inactive-Button & and Inactive-UI */
+	--base_site_inactiveUIColor: rgba(44, 65, 44, 0.69); /*Default rgba(44, 65, 44, 0.69)
+	/* Main-Button-Hover */
+	--base_site_buttonHoverColor: #50603b; /*Default #50603b
+	/* Main-Destructive-Button & Text*/
+	--base_site_destructiveButtonColor: #a44433; /*Default #a44433
+	/* Destructive-Button-Hover */
+	--base_site_destructiveButtonHoverColor: #d35c4c; /*Default #d35c4c
+	/*Backdrop-Webpage*/
+	--base_site_backdropColor: #f0c6a6; /*Default #f0c6a6
+	/*Backdrop-Webpage-Accent*/
+	--base_site_backdropAccentColor: #eeba94; /*Default #eeba94 */
+	/*Whites/Lighter color*/
+	--base_site_light: #FFFFFF; /*Default #ffffff */
+	/*Black/Darker colors*/
+	--base_site_dark: #000000; /*Default #000000 */
+	/*Gray/Dark Neutral color*/
+	--base_site_neutral: #808080; /*Default #808080 */
+	/*Light gray/Light Neutral color*/
+	--base_site_neutralLight: #D3D3D3; /*Default #D3D3D3 */
+	/*Success color, Typically in donations*/
+	--base_site_success: #008000; /*Default #008000 */
+}
+
+body {
+	margin: 0;
+	background-color: var(--base_site_bgColor, #fff6ee);
+	font-family: "Poppins", "Rubik", -apple-system, BlinkMacSystemFont,
+		"Segoe UI", "Roboto", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.blackLink {
+	color: black;
+	text-decoration: none;
+}
+
+.whiteLink {
+	color: white;
+	text-decoration: none;
+}
