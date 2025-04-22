@@ -1,10 +1,8 @@
 # PeoriaFresh! Frontend
 
-If you are reading this, then there is a chance that you have been chosen to work on PeoriaFresh!. The codebase is fairly large and complicated, so some general information has been provided below to help you get used to how everything works.
+If you are reading this, then you're trying to adapt our code and use it for your own city! The codebase is fairly large and complicated, so some general information has been provided below to help you get used to how everything works. Additionally, some of the information below information may be a bit outdated. If you want help getting started, please look at "The Big Open Sourcing Doc" file.
 
 ## Getting Started
-
-See the backend README for information on setting up docker.
 
 After getting docker set up and opening the frontend in vscode, you will need to run `npm install` in the vscode terminal to install  all required packages. This command finds the packages described in `package.json` and installs them to the `node_modules` folder. `node_modules` has been specified in `.gitignore` as a directory that will not be pushed to github (this was done because of its large file size). This means that any time someone changes the list of packages in `package.json`, everyone working on the project should run `npm install` to update their local `node_modules` folder.
 
@@ -53,7 +51,3 @@ Here is a list of the main libraries that PeoriaFresh uses on the frontend.
  4. React Redux
  5. Axios
  6. Firebase
-
-## // TODO
-
-Check the backend README for a list of uncompleted tasks.
