@@ -450,7 +450,7 @@ const DashboardPage = () => {
             </Box>
             <Box sx={{ display: 'flex', alignItems: 'center', marginLeft: 1, }}>
               <Typography variant="h5" sx={{fontWeight: 'bold', marginRight: 2, fontSize: { xs: '14px', sm: '18px', lg: '24px' }, '& a': {color: "var(--base_site_MTColorDark, #202d2b)" }, '& a:visited': { color: "var(--base_site_inactiveUIColor, rgba(44, 65, 44, 0.69))" }, '& a:hover': { textDecoration: 'underline'} }}>
-                <a href="https://drive.google.com/file/d/1PlF3pDbo1fUwx2HrpPC4UEUwOOzmFShI/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/1cD7YrZlpKLvabwniCTN1BF1ruh5OhJsc/view">
                   Receipt For Harvest Validation
                 </a>
               </Typography>
