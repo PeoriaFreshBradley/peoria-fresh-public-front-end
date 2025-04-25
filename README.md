@@ -1,6 +1,6 @@
 # PeoriaFresh! Frontend
 
-If you are reading this, then you're trying to adapt our code and use it for your own city! The codebase is fairly large and complicated, so some general information has been provided below to help you get used to how everything works. Additionally, some of the information below information may be a bit outdated. If you want help getting started, please look at the "Peoria Fresh - Open Sourcing Tutorial" file.
+If you are reading this, then you're trying to adapt our code and use it for your own city! The codebase is fairly large and complicated, so some general information has been provided below to help you get used to how everything works. Additionally, some of the information below information may be a bit outdated. If you want help getting started, please look at the "Peoria Fresh - Open Sourcing Tutorial" file in the "Open-Source-Help" Folder in the frontend.
 
 ## Getting Started
 
